@@ -1,3 +1,5 @@
+<img src="assets/logo.svg" width="60" align="left" style="margin-right:12px"/>
+
 # assembler
 
 Prefect ETL pipeline for HemOnc regimens.
