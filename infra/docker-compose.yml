@@ -1,0 +1,21 @@
+version: "3.9"
+
+services:
+  prefect-server:
+    image: prefecthq/prefect:3-latest
+    command: prefect server start --host 0.0.0.0
+    ports:
+      - "4200:4200"
+    environment:
+      PREFECT_UI_API_URL: "http://localhost:4200/api"
+
+  prefect-worker:
+    image: prefecthq/prefect:3-latest
+    command: prefect worker start --pool default-agent-pool
+    environment:
+      PREFECT_API_URL: "http://prefect-server:4200/api"
+    depends_on:
+      - prefect-server
+    volumes:
+      - ../..:/app
+    working_dir: /app

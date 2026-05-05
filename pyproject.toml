@@ -1,0 +1,51 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "assembler"
+version = "0.1.0"
+description = "HemOnc regimen assembler pipeline (Prefect 3.6)"
+requires-python = ">=3.11"
+
+dependencies = [
+    # ── orchestration ─────────────────────────────────────────────────────
+    "prefect>=3.6,<4",
+
+    # ── data ─────────────────────────────────────────────────────────────
+    "polars",
+    "pandas",
+    "numpy",
+    "pyarrow",
+
+    # ── ML / stats (used in SRE tools) ───────────────────────────────────
+    "scikit-learn",
+    "scipy",
+    "statsmodels",
+
+    # ── string / pattern ─────────────────────────────────────────────────
+    "regex",
+    "rstr",
+
+    # ── misc utilities ────────────────────────────────────────────────────
+    "openpyxl",
+    "tqdm",
+    "click",
+    "packaging",
+    "python-dateutil",
+    "pytz",
+]
+
+[project.optional-dependencies]
+dev = [
+    "flake8",
+    "pytest",
+    "pytest-asyncio",
+]
+
+[tool.prefect]
+logging.level = "DEBUG"
+
+[tool.setuptools.packages.find]
+where = [".."]
+include = ["assembler*"]

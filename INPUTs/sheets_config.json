@@ -1,0 +1,44 @@
+{
+    "sheets" : [
+        {
+        "name":"Idiosyncracies",
+        "headers": {
+            "Pattern" : "Idiosyncracy description",
+            "variant_cui_nunique_sum" : "# of variants affected",
+            "regimen_cui_nunique_sum" : "# regimens affected"
+            }
+        },
+        {
+        "name": "RegimenLog",
+        "headers": {
+            "regimen": "regimen", 
+            "regimen_cui":"regimen CUI",
+            "variant_cui_nunique": "# of unique variants",
+            "Status_H_perc" : "handled %",
+            "Status_P_perc" : "patched %",
+            "Status_N_perc" : "not handled %"
+            }
+        },
+        {
+        "name": "VariantLog",
+        "headers": {
+            "regimen": "regimen",
+            "regimen_cui" : "regimen CUI",
+            "variant":  "variant",
+            "variant_cui": "variant CUI",
+            "Status":   "status", 
+            "Pattern":  "pattern",
+            "Field":    "affected field"
+            }
+        },
+        {
+        "name" :"SummaryStats",
+        "headers" : {
+            "Pattern": "pattern",
+            "Status_H_perc" : "Handled %",
+            "Status_P_perc" : "Patched %",
+            "Status_N_perc" : "Not Handled %"
+            }
+        }
+    ]
+}

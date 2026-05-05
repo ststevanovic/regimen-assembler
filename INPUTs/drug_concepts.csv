@@ -1,0 +1,790 @@
+concept_id,concept_name,concept_class_id,vocabulary_id,domain_id,concept_code,invalid_reason,valid_concept_id
+905596,Brexucabtagene autoleucel,Component,HemOnc,Drug,6632,,37002369
+905621,Asparaginase erwinia chrysanthemi-rywn,Component,HemOnc,Drug,27223,,19012585
+905627,Voxelotor,Component,HemOnc,Drug,29560,,37497986
+905629,Belumosudil,Component,HemOnc,Drug,29663,,701423
+905630,Belzutifan,Component,HemOnc,Drug,29688,,701696
+905633,Amivantamab,Component,HemOnc,Drug,29753,,1536935
+905636,Azacitidine oral,Component,HemOnc,Drug,29973,,1314865
+905668,Dostarlimab,Component,HemOnc,Drug,34976,,1536789
+905700,Loncastuximab tesirine,Component,HemOnc,Drug,53908,,1536834
+905710,Dalpiciclib,Component,HemOnc,Drug,59131,,36852677
+905727,Sintilimab,Component,HemOnc,Drug,61131,,36854475
+905738,Iptacopan,Component,HemOnc,Drug,61269,,747398
+905740,Melphalan flufenamide,Component,HemOnc,Drug,61306,,740067
+905743,Pirtobrutinib,Component,HemOnc,Drug,61419,,1301683
+905757,Sutimlimab,Component,HemOnc,Drug,61962,,1758949
+905776,Tislelizumab,Component,HemOnc,Drug,64463,,42609339
+905777,Toripalimab,Component,HemOnc,Drug,64471,,747052
+905786,Teclistamab,Component,HemOnc,Drug,65150,,741578
+911920,Capmatinib,Component,HemOnc,Drug,3231,,1145637
+911953,Belantamab mafodotin,Component,HemOnc,Drug,4380,,37002419
+911976,Tucatinib,Component,HemOnc,Drug,4683,,1145571
+911978,Daratumumab and hyaluronidase,Component,HemOnc,Drug,4940,,19073699
+911978,Daratumumab and hyaluronidase,Component,HemOnc,Drug,4940,,35605744
+911990,Alitretinoin,Component,HemOnc,Drug,6008,,941052
+911991,Acetazolamide,Component,HemOnc,Drug,6021,,929435
+912000,Alizapride,Component,HemOnc,Drug,8437,,19030087
+912001,Amonafide,Component,HemOnc,Drug,10767,,44506774
+912004,Ampicillin,Component,HemOnc,Drug,12017,,1717327
+912008,Anakinra,Component,HemOnc,Drug,12282,,1114375
+912009,Ancestim,Component,HemOnc,Drug,12306,,19018070
+912014,Aripiprazole,Component,HemOnc,Drug,13293,,757688
+912015,Atenolol,Component,HemOnc,Drug,13341,,1314002
+912017,Pemigatinib,Component,HemOnc,Drug,13351,,37499576
+912021,Ripretinib,Component,HemOnc,Drug,13651,,1145752
+912025,Azathioprine,Component,HemOnc,Drug,13715,,19014878
+912026,Selpercatinib,Component,HemOnc,Drug,13759,,1145791
+912033,Decitabine and cedazuridine,Component,HemOnc,Drug,14235,,1146666
+912033,Decitabine and cedazuridine,Component,HemOnc,Drug,14235,,19024728
+912035,Bismuth subcitrate,Component,HemOnc,Drug,14322,,958134
+912036,Bismuth subsalicylate,Component,HemOnc,Drug,14330,,937791
+912041,Camrelizumab,Component,HemOnc,Drug,14742,,36853469
+912057,Relugolix,Component,HemOnc,Drug,18352,,739471
+912071,Trimetrexate,Component,HemOnc,Drug,18846,,1750928
+912075,Tepotinib,Component,HemOnc,Drug,19782,,739739
+912078,Epoetin beta,Component,HemOnc,Drug,20206,,19001311
+912085,Lisocabtagene maraleucel,Component,HemOnc,Drug,21215,,739856
+912093,Pexidartinib,Component,HemOnc,Drug,25485,,1361445
+912094,Pralsetinib,Component,HemOnc,Drug,25527,,37002765
+912096,Stilbamidine,Component,HemOnc,Drug,25815,,36861506
+912103,Lurbinectedin,Component,HemOnc,Drug,26763,,1146139
+912105,Metronidazole,Component,HemOnc,Drug,26852,,1707164
+912108,Naxitamab,Component,HemOnc,Drug,26950,,739531
+912109,Pegfilgrastim-bmez,Component,HemOnc,Drug,27416,,1325608
+912111,Tetracycline,Component,HemOnc,Drug,27930,,1836948
+912120,Adavosertib,Component,HemOnc,Drug,32625,,36858735
+912142,Colchicine,Component,HemOnc,Drug,34403,,1101554
+912167,Interferon alfa-2c,Component,HemOnc,Drug,59220,,40798893
+912168,Interferon alfa-n1,Component,HemOnc,Drug,59221,,19044394
+912179,Margetuximab,Component,HemOnc,Drug,59291,,739518
+912193,Sotorasib,Component,HemOnc,Drug,59461,,1536963
+912199,Umbralisib,Component,HemOnc,Drug,59505,,739804
+1524825,Aumolertinib,Component,HemOnc,Drug,12637,,36861628
+1524829,Bevacizumab-adcd,Component,HemOnc,Drug,13334,,1397141
+1524876,Elacestrant,Component,HemOnc,Drug,18359,,1301646
+1524878,Envafolimab,Component,HemOnc,Drug,18741,,36857081
+1524879,Futibatinib,Component,HemOnc,Drug,20248,,1301597
+1524935,Penpulimab,Component,HemOnc,Drug,32384,,36858261
+1524936,Rezvilutamide,Component,HemOnc,Drug,33912,,36853397
+1524945,Serplulimab,Component,HemOnc,Drug,35064,,36861273
+1524954,Sugemalimab,Component,HemOnc,Drug,36080,,36854773
+1524991,Adebrelimab,Component,HemOnc,Drug,38688,,36849791
+1525003,Sirolimus protein-bound particles,Component,HemOnc,Drug,43485,,19034726
+1525010,Suramin,Component,HemOnc,Drug,45472,,19136651
+1525012,Adagrasib,Component,HemOnc,Drug,45753,,1301337
+1525015,Tebentafusp,Component,HemOnc,Drug,47700,,1758886
+1525023,Zimberelimab,Component,HemOnc,Drug,48632,,36863769
+1525037,Ciltacabtagene autoleucel,Component,HemOnc,Drug,51229,,779144
+1525046,Fludrocortisone,Component,HemOnc,Drug,52383,,1555120
+1525057,Mitapivat,Component,HemOnc,Drug,58331,,779081
+1525063,Nivolumab and relatlimab,Component,HemOnc,Drug,59120,,779239
+1525063,Nivolumab and relatlimab,Component,HemOnc,Drug,59120,,45892628
+1525130,Epcoritamab,Component,HemOnc,Drug,66092,,1201211
+1525133,Filgrastim-aafi,Component,HemOnc,Drug,66258,,1304850
+1525149,Lutetium Lu 177 vipivotide tetraxetan,Component,HemOnc,Drug,68645,,779271
+1525156,Mobocertinib,Component,HemOnc,Drug,69109,,701915
+1525163,Pegfilgrastim-apgf,Component,HemOnc,Drug,69847,,1325608
+1525167,Rituximab-arrx,Component,HemOnc,Drug,70306,,1314273
+1525170,Tisotumab vedotin,Component,HemOnc,Drug,71307,,701957
+1525182,Rilzabrutinib,Component,HemOnc,Drug,72560,,36859949
+1525193,Tasadenoturev,Component,HemOnc,Drug,73494,,36853697
+1525201,Lanreotide LAR,Component,HemOnc,Drug,75279,,1503501
+1525205,Pimitespib,Component,HemOnc,Drug,75337,,36860485
+35100362,Ravulizumab,Component,HemOnc,Drug,94609,,1356009
+35100416,Polatuzumab vedotin,Component,HemOnc,Drug,93818,,1396729
+35100439,Penicillin V,Component,HemOnc,Drug,93237,,1729720
+35100444,Pegfilgrastim-cbqv,Component,HemOnc,Drug,93181,,1325608
+35100449,Palifermin,Component,HemOnc,Drug,92673,,19038562
+35100700,Strontium-89,Component,HemOnc,Drug,98422,,19000815
+35101066,Nystatin,Component,HemOnc,Drug,91138,,922570
+35101252,Trastuzumab and hyaluronidase,Component,HemOnc,Drug,49082,,1387104
+35101252,Trastuzumab and hyaluronidase,Component,HemOnc,Drug,49082,,19073699
+35101511,Meperidine,Component,HemOnc,Drug,46677,,1102527
+35101513,Hydroxyzine,Component,HemOnc,Drug,46632,,777221
+35101515,Emapalumab,Component,HemOnc,Drug,46354,,1355650
+35101518,Clonazepam,Component,HemOnc,Drug,46333,,798874
+35101522,Ascorbic acid,Component,HemOnc,Drug,46306,,19011773
+35101600,Cephalexin,Component,HemOnc,Drug,44124,,1786621
+35101605,Cefixime,Component,HemOnc,Drug,44069,,1796435
+35101654,Benralizumab,Component,HemOnc,Drug,34282,,792993
+35101738,Bevacizumab-bvzr,Component,HemOnc,Drug,27957,,1397141
+35101749,Idecabtagene vicleucel,Component,HemOnc,Drug,23426,,36026868
+35101858,Amoxicillin,Component,HemOnc,Drug,11533,,1713332
+35101867,Alpelisib,Component,HemOnc,Drug,10396,,1396423
+35101953,Fedratinib,Component,HemOnc,Drug,48561,,1361614
+35802855,Eluvixtamab,Component,HemOnc,Drug,1,,36853367
+35802856,Capivasertib,Component,HemOnc,Drug,2,,747200
+35802857,Abciximab,Component,HemOnc,Drug,3,,19047423
+35802858,Abemaciclib,Component,HemOnc,Drug,4,,792649
+35802859,Abexinostat,Component,HemOnc,Drug,5,,36858383
+35802860,Abiraterone,Component,HemOnc,Drug,6,,40239056
+35802861,Acalabrutinib,Component,HemOnc,Drug,7,,792764
+35802862,Acetaminophen,Component,HemOnc,Drug,8,,1125315
+35802863,Aclarubicin,Component,HemOnc,Drug,9,,19057483
+35802864,Actinium Ac 225 lintuzumab,Component,HemOnc,Drug,10,,36862394
+35802865,Acyclovir,Component,HemOnc,Drug,11,,1703687
+35802866,Trastuzumab emtansine,Component,HemOnc,Drug,12,,902726
+35802867,Afatinib,Component,HemOnc,Drug,13,,43533090
+35802868,Afuresertib,Component,HemOnc,Drug,14,,36854288
+35802869,Aldesleukin,Component,HemOnc,Drug,15,,1309770
+35802870,Alectinib,Component,HemOnc,Drug,16,,35604657
+35802871,Alemtuzumab,Component,HemOnc,Drug,17,,1312706
+35802872,Alendronate,Component,HemOnc,Drug,18,,1557272
+35802873,Alisertib,Component,HemOnc,Drug,19,,36861654
+35802874,All-trans retinoic acid,Component,HemOnc,Drug,20,,903643
+35802875,Allopurinol,Component,HemOnc,Drug,21,,1167322
+35802876,Alprazolam,Component,HemOnc,Drug,22,,781039
+35802877,Altretamine,Component,HemOnc,Drug,23,,1368823
+35802878,Alvocidib,Component,HemOnc,Drug,24,,36851446
+35802879,Amatuximab,Component,HemOnc,Drug,25,,36853119
+35802880,Amifostine,Component,HemOnc,Drug,26,,1350040
+35802881,Aminocaproic acid,Component,HemOnc,Drug,27,,1369939
+35802882,Aminoglutethimide,Component,HemOnc,Drug,28,,1503057
+35802883,Aminopterin,Component,HemOnc,Drug,29,,44506771
+35802884,Amrubicin,Component,HemOnc,Drug,30,,36854863
+35802885,Amsacrine,Component,HemOnc,Drug,31,,19017810
+35802886,Anagrelide,Component,HemOnc,Drug,32,,1381253
+35802887,Anastrozole,Component,HemOnc,Drug,33,,1348265
+35802888,Anti-inhibitor coagulant complex,Component,HemOnc,Drug,34,,19080406
+35802889,Antithrombin III,Component,HemOnc,Drug,35,,1436169
+35802890,Antithymocyte globulin horse ATG,Component,HemOnc,Drug,36,,19136207
+35802891,Antithymocyte globulin rabbit ATG,Component,HemOnc,Drug,37,,19136207
+35802892,Apalutamide,Component,HemOnc,Drug,39,,963987
+35802893,Apatinib,Component,HemOnc,Drug,40,,35884400
+35802894,Apixaban,Component,HemOnc,Drug,41,,43013024
+35802895,Aprepitant,Component,HemOnc,Drug,42,,936748
+35802896,Argatroban,Component,HemOnc,Drug,43,,1322207
+35802897,Arsenic trioxide,Component,HemOnc,Drug,44,,1333379
+35802898,Asparaginase,Component,HemOnc,Drug,45,,19012585
+35802899,Asparaginase Erwinia chrysanthemi,Component,HemOnc,Drug,46,,19012585
+35802900,Aspirin,Component,HemOnc,Drug,47,,1718517
+35802901,Aspirin and dipyridamole,Component,HemOnc,Drug,48,,1112807
+35802901,Aspirin and dipyridamole,Component,HemOnc,Drug,48,,1331270
+35802902,Atezolizumab,Component,HemOnc,Drug,49,,42629079
+35802903,Atovaquone,Component,HemOnc,Drug,50,,1781733
+35802904,Atropine,Component,HemOnc,Drug,51,,914335
+35802905,Avatrombopag,Component,HemOnc,Drug,52,,1510483
+35802906,Avelumab,Component,HemOnc,Drug,53,,1593273
+35802907,Axicabtagene ciloleucel,Component,HemOnc,Drug,54,,792844
+35802908,Axitinib,Component,HemOnc,Drug,55,,42709322
+35802909,Azacitidine,Component,HemOnc,Drug,56,,1314865
+35802913,Barasertib,Component,HemOnc,Drug,60,,36849388
+35802914,Bavituximab,Component,HemOnc,Drug,61,,36860594
+35802916,Belinostat,Component,HemOnc,Drug,63,,45776670
+35802917,Belotecan,Component,HemOnc,Drug,64,,36850058
+35802918,Bendamustine,Component,HemOnc,Drug,65,,19015523
+35802919,Betrixaban,Component,HemOnc,Drug,66,,1592988
+35802920,Bevacizumab-awwb,Component,HemOnc,Drug,67,,1397141
+35802921,Bevacizumab,Component,HemOnc,Drug,68,,1397141
+35802922,Bexarotene,Component,HemOnc,Drug,69,,1389888
+35802923,Bicalutamide,Component,HemOnc,Drug,70,,1344381
+35802924,Binimetinib,Component,HemOnc,Drug,71,,1559930
+35802925,Bivalirudin,Component,HemOnc,Drug,72,,19084670
+35802926,Bleomycin,Component,HemOnc,Drug,73,,1329241
+35802927,Blinatumomab,Component,HemOnc,Drug,74,,45892531
+35802928,Bortezomib,Component,HemOnc,Drug,75,,1336825
+35802929,Bosutinib,Component,HemOnc,Drug,76,,42900401
+35802930,Brentuximab vedotin,Component,HemOnc,Drug,77,,40241969
+35802931,Brigatinib,Component,HemOnc,Drug,78,,1594187
+35802932,Buparlisib,Component,HemOnc,Drug,79,,36849169
+35802933,Busulfan,Component,HemOnc,Drug,80,,1333357
+35802934,Cabazitaxel,Component,HemOnc,Drug,81,,40222431
+35802935,Cabozantinib,Component,HemOnc,Drug,82,,43012292
+35802936,Calaspargase,Component,HemOnc,Drug,83,,1510939
+35802937,Calcium phosphate rinse,Component,HemOnc,Drug,84,,19037401
+35802938,Cangrelor,Component,HemOnc,Drug,85,,46275677
+35802939,Capecitabine,Component,HemOnc,Drug,86,,1337620
+35802940,Caplacizumab,Component,HemOnc,Drug,87,,1366428
+35802941,Carboplatin,Component,HemOnc,Drug,88,,1344905
+35802942,Carfilzomib,Component,HemOnc,Drug,89,,42873638
+35802943,Carmustine,Component,HemOnc,Drug,90,,1350066
+35802944,Carmustine wafer polifeprosan 20,Component,HemOnc,Drug,91,,19074786
+35802945,Caspofungin,Component,HemOnc,Drug,92,,1718054
+35802946,Catumaxomab,Component,HemOnc,Drug,93,,36879077
+35802947,Cediranib,Component,HemOnc,Drug,94,,36859905
+35802948,Cemiplimab,Component,HemOnc,Drug,95,,35200783
+35802949,Ceritinib,Component,HemOnc,Drug,96,,44818466
+35802950,Cetirizine,Component,HemOnc,Drug,97,,1149196
+35802951,Cetuximab,Component,HemOnc,Drug,98,,1315411
+35802952,Chidamide,Component,HemOnc,Drug,99,,35884379
+35802953,Chlorambucil,Component,HemOnc,Drug,100,,1390051
+35802954,Chlorpheniramine,Component,HemOnc,Drug,101,,1192710
+35802955,Cilostazol,Component,HemOnc,Drug,102,,1350310
+35802956,Cimetidine,Component,HemOnc,Drug,103,,997276
+35802957,Ciprofloxacin,Component,HemOnc,Drug,104,,1797513
+35802958,Cisplatin,Component,HemOnc,Drug,105,,1397599
+35802959,Cixutumumab,Component,HemOnc,Drug,106,,36849892
+35802960,Cladribine,Component,HemOnc,Drug,107,,19054825
+35802961,Clarithromycin,Component,HemOnc,Drug,108,,1750500
+35802962,Clemastine,Component,HemOnc,Drug,109,,1197677
+35802963,Clodronate,Component,HemOnc,Drug,110,,19024249
+35802964,Clofarabine,Component,HemOnc,Drug,111,,19054821
+35802965,Clopidogrel,Component,HemOnc,Drug,112,,1322184
+35802966,Cobimetinib,Component,HemOnc,Drug,113,,35605804
+35802967,Coltuximab ravtansine,Component,HemOnc,Drug,114,,36859613
+35802968,Copanlisib,Component,HemOnc,Drug,115,,792499
+35802969,Cortisone,Component,HemOnc,Drug,116,,1507705
+35802970,Crenolanib,Component,HemOnc,Drug,117,,36859258
+35802971,Crizanlizumab,Component,HemOnc,Drug,118,,37497670
+35802972,Crizotinib,Component,HemOnc,Drug,119,,40242675
+35802973,Custirsen,Component,HemOnc,Drug,120,,36859028
+35802974,Cyanocobalamin,Component,HemOnc,Drug,121,,1308738
+35802975,Cyclophosphamide,Component,HemOnc,Drug,122,,1310317
+35802978,Cyproterone acetate,Component,HemOnc,Drug,125,,19010792
+35802979,Cytarabine,Component,HemOnc,Drug,126,,1311078
+35802981,Cytarabine liposomal,Component,HemOnc,Drug,128,,902730
+35802982,Cytomegalovirus Immune Globulin,Component,HemOnc,Drug,129,,586491
+35802983,Dabigatran,Component,HemOnc,Drug,130,,45775372
+35802984,Dabrafenib,Component,HemOnc,Drug,131,,43532299
+35802985,Dacarbazine,Component,HemOnc,Drug,132,,1311409
+35802986,Dacomitinib,Component,HemOnc,Drug,133,,35200803
+35802987,Dactinomycin,Component,HemOnc,Drug,134,,1311443
+35802988,Dalteparin,Component,HemOnc,Drug,135,,1301065
+35802989,Danaparoid,Component,HemOnc,Drug,136,,19026343
+35802990,Danazol,Component,HemOnc,Drug,137,,1511449
+35802991,Dapsone,Component,HemOnc,Drug,138,,1711759
+35802992,Daratumumab,Component,HemOnc,Drug,139,,35605744
+35802993,Darbepoetin alfa,Component,HemOnc,Drug,140,,1304643
+35802994,Darolutamide,Component,HemOnc,Drug,141,,1361291
+35802995,Dasatinib,Component,HemOnc,Drug,142,,1358436
+35802996,Daunorubicin,Component,HemOnc,Drug,143,,1311799
+35802997,Daunorubicin liposomal,Component,HemOnc,Drug,144,,1311799
+35802998,Decitabine,Component,HemOnc,Drug,145,,19024728
+35802999,Deferasirox,Component,HemOnc,Drug,146,,1786055
+35803000,Deferiprone,Component,HemOnc,Drug,148,,19011091
+35803001,Deferoxamine,Component,HemOnc,Drug,149,,1711947
+35803002,Defibrotide,Component,HemOnc,Drug,150,,42898933
+35803003,Degarelix,Component,HemOnc,Drug,151,,19058410
+35803004,Denileukin diftitox,Component,HemOnc,Drug,152,,19051642
+35803005,Denintuzumab mafodotin,Component,HemOnc,Drug,153,,36857901
+35803006,Denosumab,Component,HemOnc,Drug,154,,40222444
+35803007,Desmopressin,Component,HemOnc,Drug,155,,1517070
+35803008,Dexamethasone,Component,HemOnc,Drug,156,,1518254
+35803009,Dexchlorpheniramine,Component,HemOnc,Drug,157,,1188114
+35803010,Dexrazoxane,Component,HemOnc,Drug,158,,1353011
+35803011,Diethylstilbestrol,Component,HemOnc,Drug,159,,1525866
+35803012,Dinaciclib,Component,HemOnc,Drug,160,,36851893
+35803013,Dinutuximab,Component,HemOnc,Drug,161,,46221699
+35803014,Diphenhydramine,Component,HemOnc,Drug,162,,1129625
+35803015,Dipyridamole,Component,HemOnc,Drug,163,,1331270
+35803016,Docetaxel,Component,HemOnc,Drug,164,,1315942
+35803017,Docusate,Component,HemOnc,Drug,165,,941258
+35803018,Dolasetron,Component,HemOnc,Drug,166,,903459
+35803019,Domperidone,Component,HemOnc,Drug,167,,19037833
+35803020,Dovitinib,Component,HemOnc,Drug,168,,36858161
+35803021,Doxifluridine,Component,HemOnc,Drug,169,,43008996
+35803022,Doxorubicin,Component,HemOnc,Drug,170,,1338512
+35803023,Doxycycline,Component,HemOnc,Drug,171,,1738521
+35803024,Dronabinol,Component,HemOnc,Drug,172,,1037005
+35803025,Durvalumab,Component,HemOnc,Drug,173,,1594034
+35803026,Dutasteride,Component,HemOnc,Drug,174,,989482
+35803027,Duvelisib,Component,HemOnc,Drug,175,,35200763
+35803028,Eculizumab,Component,HemOnc,Drug,176,,19080458
+35803029,Edoxaban,Component,HemOnc,Drug,177,,45892847
+35803030,Edrecolomab,Component,HemOnc,Drug,178,,19132294
+35803031,Elotuzumab,Component,HemOnc,Drug,179,,35604032
+35803032,Eltrombopag,Component,HemOnc,Drug,180,,19012346
+35803033,Emicizumab,Component,HemOnc,Drug,181,,793042
+35803034,Enasidenib,Component,HemOnc,Drug,182,,793797
+35803035,Encorafenib,Component,HemOnc,Drug,183,,1559914
+35803036,Enoxaparin,Component,HemOnc,Drug,184,,1301025
+35803037,Ensartinib,Component,HemOnc,Drug,185,,36861459
+35803038,Entinostat,Component,HemOnc,Drug,186,,36849819
+35803039,Entospletinib,Component,HemOnc,Drug,187,,36853126
+35803040,Entrectinib,Component,HemOnc,Drug,188,,37496447
+35803041,Enzalutamide,Component,HemOnc,Drug,189,,42900250
+35803042,Epinephrine autoinjector,Component,HemOnc,Drug,190,,1343916
+35803043,Epirubicin,Component,HemOnc,Drug,191,,1344354
+35803044,Epoetin alfa-epbx,Component,HemOnc,Drug,192,,1301125
+35803045,Epoetin alfa,Component,HemOnc,Drug,193,,1301125
+35803046,Epratuzumab,Component,HemOnc,Drug,194,,36850565
+35803047,Eptifibatide,Component,HemOnc,Drug,195,,1322199
+35803048,Erdafitinib,Component,HemOnc,Drug,196,,1511250
+35803049,Eribulin,Component,HemOnc,Drug,197,,40230712
+35803050,Erlotinib,Component,HemOnc,Drug,198,,1325363
+35803051,Estradiol,Component,HemOnc,Drug,199,,1548195
+35803052,Estramustine,Component,HemOnc,Drug,200,,1349025
+35803053,Etoposide,Component,HemOnc,Drug,201,,1350504
+35803054,Everolimus,Component,HemOnc,Drug,202,,19011440
+35803055,Exemestane,Component,HemOnc,Drug,203,,1398399
+35803056,Factor IX human,Component,HemOnc,Drug,204,,1351935
+35803057,Factor IX recombinant,Component,HemOnc,Drug,205,,1351935
+35803058,Factor IX recombinant Fc fusion protein,Component,HemOnc,Drug,206,,44818493
+35803059,Factor VIII human,Component,HemOnc,Drug,207,,1352213
+35803060,Factor VIII recombinant,Component,HemOnc,Drug,208,,1352213
+35803061,Factor VIIa recombinant,Component,HemOnc,Drug,209,,1352141
+35803062,Factor XIII concentrate human,Component,HemOnc,Drug,210,,19106100
+35803063,Andexanet alfa,Component,HemOnc,Drug,211,,1510363
+35803064,Famciclovir,Component,HemOnc,Drug,212,,1703603
+35803065,Famotidine,Component,HemOnc,Drug,213,,953076
+35803066,Ferric carboxymaltose,Component,HemOnc,Drug,214,,43560392
+35803067,Ferric gluconate,Component,HemOnc,Drug,215,,1399177
+35803068,Ferrous sulfate,Component,HemOnc,Drug,216,,1396131
+35803069,Ferumoxytol,Component,HemOnc,Drug,217,,40163731
+35803070,Filanesib,Component,HemOnc,Drug,218,,36854384
+35803071,Filgrastim-sndz,Component,HemOnc,Drug,219,,1304850
+35803072,Filgrastim,Component,HemOnc,Drug,220,,1304850
+35803073,Finasteride,Component,HemOnc,Drug,221,,996416
+35803074,Floxuridine,Component,HemOnc,Drug,222,,1355509
+35803075,Fluconazole,Component,HemOnc,Drug,223,,1754994
+35803076,Fludarabine,Component,HemOnc,Drug,224,,1395557
+35803077,Fluorouracil,Component,HemOnc,Drug,225,,955632
+35803078,Fluoxymesterone,Component,HemOnc,Drug,226,,1555887
+35803079,Flutamide,Component,HemOnc,Drug,227,,1356461
+35803080,Folic acid,Component,HemOnc,Drug,228,,19111620
+35803081,Leucovorin,Component,HemOnc,Drug,229,,1388796
+35803082,Fondaparinux,Component,HemOnc,Drug,230,,1315865
+35803083,Formestane,Component,HemOnc,Drug,231,,19020079
+35803084,Forodesine,Component,HemOnc,Drug,232,,36851323
+35803085,Fosaprepitant,Component,HemOnc,Drug,233,,35605594
+35803086,Fostamatinib,Component,HemOnc,Drug,234,,1510328
+35803087,Fotemustine,Component,HemOnc,Drug,235,,36879099
+35803088,Fruquintinib,Component,HemOnc,Drug,236,,747237
+35803089,Fulvestrant,Component,HemOnc,Drug,237,,1304044
+35803090,Furosemide,Component,HemOnc,Drug,238,,956874
+35803091,Galeterone,Component,HemOnc,Drug,239,,36862778
+35803092,Ganetespib,Component,HemOnc,Drug,240,,36850204
+35803093,Ganitumab,Component,HemOnc,Drug,241,,36856365
+35803094,Gefitinib,Component,HemOnc,Drug,242,,1319193
+35803095,Gemcitabine,Component,HemOnc,Drug,243,,1314924
+35803096,Gemtuzumab ozogamicin,Component,HemOnc,Drug,244,,42799711
+35803097,Gilteritinib,Component,HemOnc,Drug,245,,1355513
+35803098,Glasdegib,Component,HemOnc,Drug,246,,1355795
+35803099,Glucarpidase,Component,HemOnc,Drug,247,,42709319
+35803100,Goserelin,Component,HemOnc,Drug,248,,1366310
+35803101,Granisetron,Component,HemOnc,Drug,249,,1000772
+35803102,Guadecitabine,Component,HemOnc,Drug,252,,36850322
+35803103,Haloperidol,Component,HemOnc,Drug,253,,766529
+35803104,Hematopoetic progenitor cells cord blood,Component,HemOnc,Drug,254,,42899124
+35803105,Heptaplatin,Component,HemOnc,Drug,255,,2100512
+35803106,Histrelin,Component,HemOnc,Drug,256,,1366773
+35803107,Magrolimab,Component,HemOnc,Drug,257,,36854780
+35803108,Hydrocortisone,Component,HemOnc,Drug,258,,975125
+35803109,Hydroxyurea,Component,HemOnc,Drug,259,,1377141
+35803110,IPH-2101,Component,HemOnc,Drug,260,,36852522
+35803111,Ibandronate,Component,HemOnc,Drug,261,,1512480
+35803112,Ibritumomab tiuxetan,Component,HemOnc,Drug,262,,19068830
+35803113,Ibrutinib,Component,HemOnc,Drug,263,,44507848
+35803114,Icotinib,Component,HemOnc,Drug,264,,35884401
+35803115,Idarubicin,Component,HemOnc,Drug,265,,19078097
+35803116,Idarucizumab,Component,HemOnc,Drug,266,,35602981
+35803117,Idelalisib,Component,HemOnc,Drug,267,,45776944
+35803118,Ifosfamide,Component,HemOnc,Drug,268,,19078187
+35803119,Imatinib,Component,HemOnc,Drug,269,,1304107
+35803120,Imetelstat,Component,HemOnc,Drug,270,,1734581
+35803121,Indomethacin,Component,HemOnc,Drug,271,,1178663
+35803122,Infigratinib,Component,HemOnc,Drug,272,,1536975
+35803123,Inotuzumab ozogamicin,Component,HemOnc,Drug,273,,794068
+35803124,Interferon alfa-2a,Component,HemOnc,Drug,274,,1379969
+35803125,Interferon alfa-2b,Component,HemOnc,Drug,275,,1380068
+35803126,Interferon gamma-1b,Component,HemOnc,Drug,276,,1380191
+35803127,Iodine-131,Component,HemOnc,Drug,277,,1780601
+35803128,Ipatasertib,Component,HemOnc,Drug,278,,36852027
+35803129,Ipilimumab,Component,HemOnc,Drug,279,,40238188
+35803130,Irinotecan,Component,HemOnc,Drug,280,,1367268
+35803131,Irinotecan liposome,Component,HemOnc,Drug,281,,902731
+35803132,Iron dextran,Component,HemOnc,Drug,282,,1381661
+35803133,Iron sucrose,Component,HemOnc,Drug,283,,1395773
+35803134,Isatuximab,Component,HemOnc,Drug,284,,37498969
+35803135,Isotretinoin,Component,HemOnc,Drug,285,,984232
+35803136,Itraconazole,Component,HemOnc,Drug,286,,1703653
+35803137,Ivosidenib,Component,HemOnc,Drug,287,,1560123
+35803138,Ixabepilone,Component,HemOnc,Drug,288,,19025348
+35803139,Ixazomib,Component,HemOnc,Drug,289,,35606214
+35803140,Ketoconazole,Component,HemOnc,Drug,290,,985708
+35803141,L-glutamine,Component,HemOnc,Drug,291,,19060985
+35803142,Lactulose,Component,HemOnc,Drug,292,,987245
+35803143,Lamivudine,Component,HemOnc,Drug,293,,1704183
+35803144,Lanreotide,Component,HemOnc,Drug,294,,1503501
+35803145,Lansoprazole,Component,HemOnc,Drug,295,,929887
+35803146,Lapatinib,Component,HemOnc,Drug,296,,1359548
+35803147,Lapuleucel-T,Component,HemOnc,Drug,297,,36858485
+35803148,Larotrectinib,Component,HemOnc,Drug,298,,1355705
+35803149,Lenalidomide,Component,HemOnc,Drug,299,,19026972
+35803150,Lenograstim,Component,HemOnc,Drug,300,,19009705
+35803151,Lenvatinib,Component,HemOnc,Drug,301,,46221433
+35803152,Lepirudin,Component,HemOnc,Drug,302,,19092139
+35803153,Lestaurtinib,Component,HemOnc,Drug,303,,36856704
+35803154,Letrozole,Component,HemOnc,Drug,304,,1315946
+35803155,Leuprolide,Component,HemOnc,Drug,305,,1351541
+35803156,Levamisole,Component,HemOnc,Drug,306,,1389464
+35803157,Levofloxacin,Component,HemOnc,Drug,307,,1742253
+35803158,Levoleucovorin,Component,HemOnc,Drug,308,,40168303
+35803159,Lipefilgrastim,Component,HemOnc,Drug,309,,44506753
+35803161,Lomustine,Component,HemOnc,Drug,311,,1391846
+35803162,Loperamide,Component,HemOnc,Drug,312,,991876
+35803163,Lorazepam,Component,HemOnc,Drug,313,,791967
+35803164,Lorlatinib,Component,HemOnc,Drug,314,,35201733
+35803165,Lusutrombopag,Component,HemOnc,Drug,315,,35200302
+35803166,Lutetium Lu 177 dotatate,Component,HemOnc,Drug,316,,36249974
+35803168,Tafasitamab,Component,HemOnc,Drug,318,,37002368
+35803169,Mannitol,Component,HemOnc,Drug,319,,994058
+35803170,Mapatumumab,Component,HemOnc,Drug,320,,36862971
+35803171,Masitinib,Component,HemOnc,Drug,321,,36859404
+35803172,Mechlorethamine,Component,HemOnc,Drug,322,,1394337
+35803173,Medroxyprogesterone acetate,Component,HemOnc,Drug,323,,1500211
+35803174,Megestrol,Component,HemOnc,Drug,324,,1300978
+35803175,Melphalan,Component,HemOnc,Drug,325,,1301267
+35803176,Mepolizumab,Component,HemOnc,Drug,326,,35606631
+35803177,Mercaptopurine,Component,HemOnc,Drug,327,,1436650
+35803178,Mesna,Component,HemOnc,Drug,328,,1354698
+35803179,Methotrexate,Component,HemOnc,Drug,329,,1305058
+35803180,Methoxsalen,Component,HemOnc,Drug,330,,905223
+35803181,Methylprednisolone,Component,HemOnc,Drug,331,,1506270
+35803182,Metoclopramide,Component,HemOnc,Drug,332,,906780
+35803183,Midostaurin,Component,HemOnc,Drug,333,,1594003
+35803184,Mitomycin,Component,HemOnc,Drug,334,,1389036
+35803185,Mitotane,Component,HemOnc,Drug,335,,1309161
+35803186,Mitoxantrone,Component,HemOnc,Drug,336,,1309188
+35803187,Mocetinostat,Component,HemOnc,Drug,337,,36855534
+35803188,Mogamulizumab,Component,HemOnc,Drug,338,,35200202
+35803189,Momelotinib,Component,HemOnc,Drug,339,,746600
+35803190,Montelukast,Component,HemOnc,Drug,340,,1154161
+35803191,Motesanib,Component,HemOnc,Drug,341,,36861916
+35803192,Moxetumomab pasudotox,Component,HemOnc,Drug,342,,35200995
+35803193,Mycophenolate mofetil,Component,HemOnc,Drug,343,,19003999
+35803194,Birtamimab,Component,HemOnc,Drug,344,,36862585
+35803195,Nabilone,Component,HemOnc,Drug,345,,913440
+35803196,Nadroparin,Component,HemOnc,Drug,346,,19001014
+35803197,Necitumumab,Component,HemOnc,Drug,347,,35606215
+35803198,Nedaplatin,Component,HemOnc,Drug,348,,35198201
+35803199,Nelarabine,Component,HemOnc,Drug,349,,19002912
+35803200,Neratinib,Component,HemOnc,Drug,350,,793846
+35803201,Netupitant and palonosetron,Component,HemOnc,Drug,351,,911354
+35803201,Netupitant and palonosetron,Component,HemOnc,Drug,351,,45774966
+35803202,Nilotinib,Component,HemOnc,Drug,352,,1394023
+35803203,Nilutamide,Component,HemOnc,Drug,353,,1315286
+35803204,Nimustine,Component,HemOnc,Drug,354,,36849088
+35803205,Nintedanib,Component,HemOnc,Drug,355,,45775396
+35803206,Niraparib,Component,HemOnc,Drug,356,,1593861
+35803207,Nivolumab,Component,HemOnc,Drug,357,,45892628
+35803208,Nolatrexed,Component,HemOnc,Drug,358,,36858805
+35803210,Norethandrolone,Component,HemOnc,Drug,360,,19128219
+35803211,Obinutuzumab,Component,HemOnc,Drug,361,,44507676
+35803212,Octreotide,Component,HemOnc,Drug,362,,1522957
+35803213,Octreotide LAR,Component,HemOnc,Drug,363,,1522957
+35803214,Ofatumumab,Component,HemOnc,Drug,364,,40167582
+35803215,Olanzapine,Component,HemOnc,Drug,365,,785788
+35803216,Olaparib,Component,HemOnc,Drug,366,,45892579
+35803217,Olaratumab,Component,HemOnc,Drug,367,,1718346
+35803218,Omacetaxine,Component,HemOnc,Drug,368,,45775576
+35803219,Omeprazole,Component,HemOnc,Drug,369,,923645
+35803220,Onartuzumab,Component,HemOnc,Drug,370,,36859615
+35803221,Ondansetron,Component,HemOnc,Drug,371,,1000560
+35803222,Oprelvekin,Component,HemOnc,Drug,372,,1318030
+35803223,Oprozomib,Component,HemOnc,Drug,373,,36859650
+35803224,Orteronel,Component,HemOnc,Drug,374,,36862094
+35803225,Osimertinib,Component,HemOnc,Drug,375,,35605522
+35803226,Otlertuzumab,Component,HemOnc,Drug,376,,36850367
+35803227,Oxaliplatin,Component,HemOnc,Drug,377,,1318011
+35803228,Paclitaxel nanoparticle albumin-bound,Component,HemOnc,Drug,378,,902729
+35803229,Paclitaxel,Component,HemOnc,Drug,379,,1378382
+35803230,Pacritinib,Component,HemOnc,Drug,380,,779180
+35803231,Palbociclib,Component,HemOnc,Drug,381,,45892075
+35803232,Palonosetron,Component,HemOnc,Drug,382,,911354
+35803233,Pamidronate,Component,HemOnc,Drug,383,,1511646
+35803234,Panitumumab,Component,HemOnc,Drug,384,,19100985
+35803235,Panobinostat,Component,HemOnc,Drug,385,,46221435
+35803236,Pantoprazole,Component,HemOnc,Drug,386,,948078
+35803237,Pazopanib,Component,HemOnc,Drug,387,,40167554
+35803238,Pegaspargase,Component,HemOnc,Drug,388,,1326481
+35803239,Pegfilgrastim-jmdb,Component,HemOnc,Drug,389,,1325608
+35803240,Pegfilgrastim,Component,HemOnc,Drug,390,,1325608
+35803241,Peginterferon alfa-2a,Component,HemOnc,Drug,391,,1714165
+35803242,Peginterferon alfa-2b,Component,HemOnc,Drug,392,,1797155
+35803243,Pegylated liposomal doxorubicin,Component,HemOnc,Drug,393,,902725
+35803244,Pembrolizumab,Component,HemOnc,Drug,394,,45775965
+35803245,Pemetrexed,Component,HemOnc,Drug,395,,1304919
+35803246,Pentamidine,Component,HemOnc,Drug,396,,1730370
+35803247,Pentostatin,Component,HemOnc,Drug,397,,19031224
+35803249,Perifosine,Component,HemOnc,Drug,399,,36850249
+35803250,Pertuzumab,Component,HemOnc,Drug,400,,42801287
+35803251,Phenytoin,Component,HemOnc,Drug,401,,740910
+35803252,Phytonadione,Component,HemOnc,Drug,402,,19044727
+35803253,Pictilisib,Component,HemOnc,Drug,403,,36858272
+35803254,Pidilizumab,Component,HemOnc,Drug,404,,36855913
+35803255,Pirarubicin,Component,HemOnc,Drug,405,,19093366
+35803256,Pixantrone,Component,HemOnc,Drug,406,,36879010
+35803257,Plerixafor,Component,HemOnc,Drug,407,,19017581
+35803258,Plicamycin,Component,HemOnc,Drug,408,,19009165
+35803259,Plinabulin,Component,HemOnc,Drug,409,,36855020
+35803260,Pomalidomide,Component,HemOnc,Drug,410,,43014237
+35803261,Ponatinib,Component,HemOnc,Drug,411,,43013182
+35803262,Porfimer,Component,HemOnc,Drug,412,,19089602
+35803263,Pracinostat,Component,HemOnc,Drug,413,,36857749
+35803264,Pralatrexate,Component,HemOnc,Drug,414,,40166461
+35803265,Prasugrel,Component,HemOnc,Drug,415,,40163718
+35803266,Pravastatin,Component,HemOnc,Drug,416,,1551860
+35803267,Prednisolone,Component,HemOnc,Drug,417,,1550557
+35803268,Prednisone,Component,HemOnc,Drug,418,,1551099
+35803269,Procarbazine,Component,HemOnc,Drug,419,,1351779
+35803270,Prochlorperazine,Component,HemOnc,Drug,420,,752061
+35803271,Promethazine,Component,HemOnc,Drug,421,,1153013
+35803272,Protamine sulfate,Component,HemOnc,Drug,422,,19054242
+35803273,Prothrombin Complex Concentrate human,Component,HemOnc,Drug,423,,1351935
+35803273,Prothrombin Complex Concentrate human,Component,HemOnc,Drug,423,,42801108
+35803273,Prothrombin Complex Concentrate human,Component,HemOnc,Drug,423,,44507865
+35803273,Prothrombin Complex Concentrate human,Component,HemOnc,Drug,423,,44785020
+35803273,Prothrombin Complex Concentrate human,Component,HemOnc,Drug,423,,44785022
+35803273,Prothrombin Complex Concentrate human,Component,HemOnc,Drug,423,,44785045
+35803274,Quinine,Component,HemOnc,Drug,424,,1760616
+35803275,Quisinostat,Component,HemOnc,Drug,425,,36855098
+35803276,Quizartinib,Component,HemOnc,Drug,426,,746225
+35803277,Rabeprazole,Component,HemOnc,Drug,427,,911735
+35803278,Radium-223,Component,HemOnc,Drug,428,,902727
+35803278,Radium-223,Component,HemOnc,Drug,428,,45775578
+35803279,Radotinib,Component,HemOnc,Drug,429,,43009098
+35803280,Raloxifene,Component,HemOnc,Drug,430,,1513103
+35803281,Raltitrexed,Component,HemOnc,Drug,431,,19038536
+35803282,Ramosetron,Component,HemOnc,Drug,432,,2100525
+35803283,Ramucirumab,Component,HemOnc,Drug,433,,44818489
+35803284,Ranimustine,Component,HemOnc,Drug,434,,35197850
+35803285,Ranitidine,Component,HemOnc,Drug,435,,961047
+35803286,Rasburicase,Component,HemOnc,Drug,436,,1304565
+35803287,Refametinib,Component,HemOnc,Drug,437,,1254495
+35803288,Regorafenib,Component,HemOnc,Drug,438,,42903460
+35803289,Retaspimycin,Component,HemOnc,Drug,439,,36856151
+35803290,Rho(D) immune globulin,Component,HemOnc,Drug,440,,535714
+35803291,Ribociclib,Component,HemOnc,Drug,441,,1592911
+35803292,Ricolinostat,Component,HemOnc,Drug,442,,36862856
+35803293,Rilotumumab,Component,HemOnc,Drug,443,,36852018
+35803294,Risedronate,Component,HemOnc,Drug,444,,19115051
+35803295,Rituximab-abbs,Component,HemOnc,Drug,445,,1314273
+35803296,Rituximab,Component,HemOnc,Drug,446,,1314273
+35803297,Rituximab and hyaluronidase human,Component,HemOnc,Drug,447,,1314273
+35803297,Rituximab and hyaluronidase human,Component,HemOnc,Drug,447,,19073699
+35803298,Rivaroxaban,Component,HemOnc,Drug,448,,40241331
+35803299,Rociletinib,Component,HemOnc,Drug,449,,36853448
+35803300,Rolapitant,Component,HemOnc,Drug,450,,46287434
+35803301,Romidepsin,Component,HemOnc,Drug,451,,40168385
+35803302,Romiplostim,Component,HemOnc,Drug,452,,19032407
+35803303,Ropeginterferon alfa-2b,Component,HemOnc,Drug,453,,702407
+35803304,Rucaparib,Component,HemOnc,Drug,454,,1718850
+35803305,Ruxolitinib,Component,HemOnc,Drug,455,,40244464
+35803306,Sacituzumab govitecan,Component,HemOnc,Drug,456,,1145484
+35803307,Samarium-153,Component,HemOnc,Drug,457,,1365720
+35803309,Sargramostim,Component,HemOnc,Drug,459,,1308432
+35803310,Scopolamine,Component,HemOnc,Drug,460,,965748
+35803311,Selinexor,Component,HemOnc,Drug,461,,1361191
+35803312,Selumetinib,Component,HemOnc,Drug,462,,37499520
+35803313,Semuloparin,Component,HemOnc,Drug,463,,1145735
+35803314,Semustine,Component,HemOnc,Drug,464,,36853363
+35803315,Sennosides,Component,HemOnc,Drug,465,,938268
+35803316,Siltuximab,Component,HemOnc,Drug,466,,44818461
+35803317,Sipuleucel-T,Component,HemOnc,Drug,467,,40224095
+35803318,Sirolimus,Component,HemOnc,Drug,468,,19034726
+35803319,Sonidegib,Component,HemOnc,Drug,469,,46275491
+35803320,Sorafenib,Component,HemOnc,Drug,470,,1363387
+35803321,Spebrutinib,Component,HemOnc,Drug,471,,36856731
+35803322,Streptozocin,Component,HemOnc,Drug,472,,19136210
+35803323,Sunitinib,Component,HemOnc,Drug,473,,1336539
+35803324,Tacrolimus,Component,HemOnc,Drug,474,,950637
+35803325,Tagraxofusp,Component,HemOnc,Drug,475,,1356361
+35803326,Talazoparib,Component,HemOnc,Drug,476,,35201068
+35803327,Talimogene laherparepvec,Component,HemOnc,Drug,477,,42903942
+35803328,Tamibarotene,Component,HemOnc,Drug,478,,35198219
+35803329,Tamoxifen,Component,HemOnc,Drug,479,,1436678
+35803330,Tbo-filgrastim,Component,HemOnc,Drug,480,,1304850
+35803331,Tegafur gimeracil oteracil,Component,HemOnc,Drug,481,,19056756
+35803332,Tegafur and uracil,Component,HemOnc,Drug,482,,19006877
+35803332,Tegafur and uracil,Component,HemOnc,Drug,482,,19056756
+35803333,Telotristat,Component,HemOnc,Drug,483,,1592537
+35803334,Temozolomide,Component,HemOnc,Drug,484,,1341149
+35803335,Temsirolimus,Component,HemOnc,Drug,485,,19092845
+35803336,Teniposide,Component,HemOnc,Drug,486,,19136750
+35803337,Tesetaxel,Component,HemOnc,Drug,487,,36862110
+35803338,Thalidomide,Component,HemOnc,Drug,488,,19137042
+35803339,Thioguanine,Component,HemOnc,Drug,489,,1437379
+35803340,Thiotepa,Component,HemOnc,Drug,490,,19137385
+35803341,Ticagrelor,Component,HemOnc,Drug,492,,40241186
+35803342,Ticlopidine,Component,HemOnc,Drug,493,,1302398
+35803343,Tigatuzumab,Component,HemOnc,Drug,494,,36849926
+35803344,Tinzaparin,Component,HemOnc,Drug,495,,1308473
+35803345,Tipifarnib,Component,HemOnc,Drug,496,,36859494
+35803346,Tirofiban,Component,HemOnc,Drug,497,,19017067
+35803347,Tisagenlecleucel,Component,HemOnc,Drug,498,,792737
+35803348,Tivantinib,Component,HemOnc,Drug,499,,36860467
+35803349,Tivozanib,Component,HemOnc,Drug,500,,36026750
+35803350,Tocilizumab,Component,HemOnc,Drug,501,,40171288
+35803351,Tofacitinib,Component,HemOnc,Drug,502,,42904205
+35803352,Topotecan,Component,HemOnc,Drug,503,,1378509
+35803353,Toremifene,Component,HemOnc,Drug,504,,1342346
+35803354,Tosedostat,Component,HemOnc,Drug,505,,36858997
+35803355,Tositumomab and I-131,Component,HemOnc,Drug,506,,19068894
+35803356,Trabectedin,Component,HemOnc,Drug,507,,35603017
+35803357,Trametinib,Component,HemOnc,Drug,508,,43532497
+35803358,Tranexamic acid,Component,HemOnc,Drug,509,,1303425
+35803359,Trastuzumab-dkst,Component,HemOnc,Drug,510,,1387104
+35803360,Trastuzumab-pkrb,Component,HemOnc,Drug,511,,1387104
+35803361,Trastuzumab,Component,HemOnc,Drug,512,,1387104
+35803362,Trebananib,Component,HemOnc,Drug,513,,36863101
+35803363,Tremelimumab,Component,HemOnc,Drug,514,,741851
+35803364,Treosulfan,Component,HemOnc,Drug,515,,19042545
+35803365,Trifluridine and tipiracil,Component,HemOnc,Drug,516,,905078
+35803365,Trifluridine and tipiracil,Component,HemOnc,Drug,516,,35602757
+35803366,Trimethoprim-Sulfamethoxazole,Component,HemOnc,Drug,517,,1705674
+35803366,Trimethoprim-Sulfamethoxazole,Component,HemOnc,Drug,517,,1836430
+35803367,Triptorelin,Component,HemOnc,Drug,518,,1343039
+35803368,Tropisetron,Component,HemOnc,Drug,519,,19002800
+35803369,Ublituximab,Component,HemOnc,Drug,520,,1301397
+35803370,Unfractionated heparin,Component,HemOnc,Drug,521,,1367571
+35803371,Uracil mustard,Component,HemOnc,Drug,522,,19006880
+35803372,Uridine triacetate,Component,HemOnc,Drug,523,,46287389
+35803373,Vadastuximab talirine,Component,HemOnc,Drug,524,,36861569
+35803374,Valacyclovir,Component,HemOnc,Drug,525,,1717704
+35803375,Valganciclovir,Component,HemOnc,Drug,526,,1703063
+35803376,Valproate,Component,HemOnc,Drug,527,,745466
+35803377,Valrubicin,Component,HemOnc,Drug,528,,19012543
+35803378,Vandetanib,Component,HemOnc,Drug,529,,40238052
+35803379,Varlilumab,Component,HemOnc,Drug,530,,36848613
+35803380,Veliparib,Component,HemOnc,Drug,531,,36848631
+35803381,Veltuzumab,Component,HemOnc,Drug,532,,36856060
+35803382,Vemurafenib,Component,HemOnc,Drug,533,,40241937
+35803383,Venetoclax,Component,HemOnc,Drug,534,,35604205
+35803384,Vinblastine,Component,HemOnc,Drug,535,,19008264
+35803385,Vincristine,Component,HemOnc,Drug,536,,1308290
+35803386,Vincristine liposomal,Component,HemOnc,Drug,537,,902728
+35803387,Vindesine,Component,HemOnc,Drug,538,,19008336
+35803388,Vinflunine,Component,HemOnc,Drug,539,,36878852
+35803389,Vinorelbine,Component,HemOnc,Drug,540,,1343346
+35803390,Vismodegib,Component,HemOnc,Drug,541,,42709321
+35803391,Volasertib,Component,HemOnc,Drug,542,,36853074
+35803392,Vorapaxar,Component,HemOnc,Drug,543,,44818499
+35803393,Voriconazole,Component,HemOnc,Drug,544,,1714277
+35803394,Vorinostat,Component,HemOnc,Drug,545,,1337651
+35803395,Vosaroxin,Component,HemOnc,Drug,546,,36858795
+35803396,Warfarin,Component,HemOnc,Drug,547,,1310149
+35803397,Zidovudine,Component,HemOnc,Drug,548,,1710612
+35803398,Ziv-aflibercept,Component,HemOnc,Drug,549,,40244266
+35803399,Zoledronic acid,Component,HemOnc,Drug,550,,1524674
+35803701,Trimethoprim/Sulfamethoxazole (Bactrim DS),Component,HemOnc,Drug,3472,D,1705674
+35803701,Trimethoprim/Sulfamethoxazole (Bactrim DS),Component,HemOnc,Drug,3472,D,1836430
+35805492,Factor X human,Component,HemOnc,Drug,18870,,44785022
+35805783,Intravenous immunoglobulin,Component,HemOnc,Drug,21959,,19117912
+35807159,Von Willebrand factor and factor VIII complex human,Component,HemOnc,Drug,38407,,1352213
+35807159,Von Willebrand factor and factor VIII complex human,Component,HemOnc,Drug,38407,,44785885
+35807336,Cyclosporine,Component,HemOnc,Drug,45569,,19010482
+37556794,Abarelix,Component,HemOnc,Drug,3652,,19010868
+37556903,Furmonertinib,Component,HemOnc,Drug,51224,,36855491
+37556986,Linsitinib,Component,HemOnc,Drug,75494,,36849337
+37557009,Prednimustine,Component,HemOnc,Drug,76031,,19135793
+37557025,Urethane,Component,HemOnc,Drug,76287,,43526080
+37557047,Pipobroman,Component,HemOnc,Drug,76563,,19046625
+37557073,Mirvetuximab soravtansine,Component,HemOnc,Drug,109643,,741947
+37557085,Agatolimod,Component,HemOnc,Drug,110427,,746684
+37557114,Farletuzumab,Component,HemOnc,Drug,110733,,36850384
+37557115,Figitumumab,Component,HemOnc,Drug,110743,,36862449
+37557120,Glofitamab,Component,HemOnc,Drug,110791,,1201501
+37557145,Mosunetuzumab,Component,HemOnc,Drug,111261,,1301307
+37557150,Nadofaragene firadenovec,Component,HemOnc,Drug,111273,,746328
+37557157,Olutasidenib,Component,HemOnc,Drug,111358,,742050
+37557162,Pertuzumab and Trastuzumab hyaluronidase,Component,HemOnc,Drug,111391,,1387104
+37557162,Pertuzumab and Trastuzumab hyaluronidase,Component,HemOnc,Drug,111391,,19073699
+37557162,Pertuzumab and Trastuzumab hyaluronidase,Component,HemOnc,Drug,111391,,42801287
+37557167,Pyrotinib,Component,HemOnc,Drug,111427,,36856361
+37557177,Talquetamab,Component,HemOnc,Drug,111584,,746340
+37557181,Tirapazamine,Component,HemOnc,Drug,111602,,36849749
+37557183,Vadimezan,Component,HemOnc,Drug,111630,,36848811
+37557187,Vorolanib,Component,HemOnc,Drug,111644,,36863539
+37557229,Buserelin,Component,HemOnc,Drug,114346,,19033280
+37557231,Etranacogene dezaparvovec,Component,HemOnc,Drug,114383,,1301479
+37557233,Lifileuecel,Component,HemOnc,Drug,114432,,42609269
+37557234,Protein C human,Component,HemOnc,Drug,114468,,42801108
+37557235,Retifanlimab,Component,HemOnc,Drug,114475,,1302024
+37557237,Tabelecleucel,Component,HemOnc,Drug,114494,,36857534
+37557240,Verbrinacogene setparvovec,Component,HemOnc,Drug,114506,,36858952
+37557250,Iobenguane I 131,Component,HemOnc,Drug,115124,,19019942
+37557267,Bumetanide,Component,HemOnc,Drug,116681,,932745
+37557270,Carbasalate calcium,Component,HemOnc,Drug,116701,,40798706
+37557273,Clobetasol,Component,HemOnc,Drug,116765,,998415
+37557308,Erythromycin,Component,HemOnc,Drug,117036,,1746940
+37557324,Sodium bicarbonate,Component,HemOnc,Drug,118279,,939506
+37557329,Testosterone cypionate,Component,HemOnc,Drug,118358,,1636780
+37557374,Bevacizumab-maly,Component,HemOnc,Drug,119949,,1397141
+37557382,Borofalan-10B,Component,HemOnc,Drug,119973,,36854939
+37557389,Carmofur,Component,HemOnc,Drug,119992,,35884377
+37557392,Celecoxib,Component,HemOnc,Drug,120000,,1118084
+37557418,Daratumumab and vorhyaluronidase,Component,HemOnc,Drug,120089,,35605744
+37557418,Daratumumab and vorhyaluronidase,Component,HemOnc,Drug,120089,,36851380
+37557419,Darinaparsin,Component,HemOnc,Drug,120090,,36855411
+37557427,Donafenib,Component,HemOnc,Drug,120118,,36851308
+37557431,Elranatamab,Component,HemOnc,Drug,120161,,746391
+37557439,Ethinylestradiol,Component,HemOnc,Drug,120175,,1549786
+37557444,Filgrastim-ayow,Component,HemOnc,Drug,120189,,1304850
+37557447,Fosnetupitant,Component,HemOnc,Drug,120195,,45774966
+37557455,Histamine dihydrochloride,Component,HemOnc,Drug,120274,,19069019
+37557462,Interferon gamma-1a,Component,HemOnc,Drug,120420,,42903737
+37557475,Mifamurtide,Component,HemOnc,Drug,120531,,36878942
+37557477,Miriplatin,Component,HemOnc,Drug,120535,,36853647
+37557479,Niraparib and abiraterone,Component,HemOnc,Drug,120586,,1593861
+37557479,Niraparib and abiraterone,Component,HemOnc,Drug,120586,,40239056
+37557480,Nirogacestat,Component,HemOnc,Drug,120587,,747349
+37557483,Olverembatinib,Component,HemOnc,Drug,120610,,36858964
+37557488,Padeliporfin,Component,HemOnc,Drug,120642,,36856986
+37557489,Pegfilgrastim-fpgk,Component,HemOnc,Drug,120652,,1325608
+37557490,Pegfilgrastim-pbbk,Component,HemOnc,Drug,120653,,1325608
+37557502,Racotumomab,Component,HemOnc,Drug,120701,,36852040
+37557508,Rebimastat,Component,HemOnc,Drug,120714,,36849507
+37557513,Sitagliptin,Component,HemOnc,Drug,120762,,1539403
+37557516,Taloporfin,Component,HemOnc,Drug,120803,,36860324
+37557520,Temoporfin,Component,HemOnc,Drug,120813,,19011067
+37557521,Tirabrutinib,Component,HemOnc,Drug,120817,,1253586
+37557524,Triethylenemelamine,Component,HemOnc,Drug,120836,,1146602
+37557525,Trofosfamide,Component,HemOnc,Drug,120837,,19101677
+37557528,Valemetostat,Component,HemOnc,Drug,120865,,36852705
+37557532,Vonoprazan,Component,HemOnc,Drug,120882,,779984
+37557533,Vorasidenib,Component,HemOnc,Drug,120883,,1735000
+37557739,Chlorozotocin,Component,HemOnc,Drug,121807,,43012229
+37557751,Concizumab,Component,HemOnc,Drug,121922,,36852954
+37557790,Dinutuximab beta,Component,HemOnc,Drug,122132,,40685018
+37557854,Fadrozole,Component,HemOnc,Drug,122313,,36857877
+37557860,Fitusiran,Component,HemOnc,Drug,122376,,36861527
+37557967,Lasofoxifene,Component,HemOnc,Drug,123739,,36850663
+37557968,Lazertinib,Component,HemOnc,Drug,123749,,1735080
+37558002,Melphalan for Injection-Hepatic Delivery System,Component,HemOnc,Drug,124558,,1301267
+37558012,Mezigdomide,Component,HemOnc,Drug,124580,,36859146
+37558016,Mitomycin pyelocalyceal,Component,HemOnc,Drug,124616,,1389036
+37558025,Motixafortide,Component,HemOnc,Drug,124664,,746567
+37558170,Simvastatin,Component,HemOnc,Drug,125601,,1539403
+37558306,Zolbetuximab,Component,HemOnc,Drug,127128,,1735539
+37560710,Danicopan,Component,HemOnc,Drug,135141,,42609527
+37560738,Eflornithine,Component,HemOnc,Drug,135220,,978236
+37560821,Oblimersen,Component,HemOnc,Drug,136048,,36854236
+37560841,Repotrectinib,Component,HemOnc,Drug,136156,,747362
+37560871,Tarlatamab,Component,HemOnc,Drug,136303,,1734429
+37560914,ADAMTS13 recombinant,Component,HemOnc,Drug,139603,,747260
+37560917,Afamitresgene autoleucel,Component,HemOnc,Drug,139608,,1734945
+37561055,Exagamglogene autotemcel,Component,HemOnc,Drug,140113,,747499
+37561155,Nogapendekin alfa inbakicept,Component,HemOnc,Drug,141155,,1734398
+37561188,Rusfertide,Component,HemOnc,Drug,141339,,36863211
+37561219,Tovorafenib,Component,HemOnc,Drug,141487,,1734345
+37561253,Axatilimab,Component,HemOnc,Drug,142045,,1735157
+37561338,Efanesoctocog alfa,Component,HemOnc,Drug,142348,,1253104
+37561368,Ivonescimab,Component,HemOnc,Drug,143813,,36863314
+37561374,Mavorixafor,Component,HemOnc,Drug,144015,,1734480
+37561402,Sovleplenib,Component,HemOnc,Drug,144344,,36855116
+37561471,Atezolizumab and hyaluronidase,Component,HemOnc,Drug,145036,,19073699
+37561471,Atezolizumab and hyaluronidase,Component,HemOnc,Drug,145036,,42629079
+37561559,Cadonilimab,Component,HemOnc,Drug,145172,,36853097
+37561809,Finotonlimab,Component,HemOnc,Drug,145560,,36852065
+37561861,Inavolisib,Component,HemOnc,Drug,145920,,1735491
+37561923,Nimotuzumab,Component,HemOnc,Drug,146267,,36853220
+37561930,Obecabtagene autoleucel,Component,HemOnc,Drug,146281,,36853576
+37561997,Revumenib,Component,HemOnc,Drug,146444,,1253378
+37562068,Zanidatamab,Component,HemOnc,Drug,146793,,36863638
+37562071,Zuberitamab,Component,HemOnc,Drug,146843,,36860276
+37562074,BMS-275291,Component,HemOnc,Drug,110498,U,36849507
+42542257,Enfortumab vedotin,Component,HemOnc,Drug,3563,,37498261
+42542260,Trastuzumab deruxtecan,Component,HemOnc,Drug,3590,,902724
+42542271,Tositumomab and I-131 (Bexxar),Component,HemOnc,Drug,11194,U,19068894
+42542280,Avapritinib,Component,HemOnc,Drug,25334,,37498468
+42542386,Rituximab-pvvr,Component,HemOnc,Drug,48315,,1314273
+42542388,Trastuzumab-anns,Component,HemOnc,Drug,48338,,1387104
+42542389,Trastuzumab-dttb,Component,HemOnc,Drug,48339,,1387104
+42542390,Trastuzumab-qyyp,Component,HemOnc,Drug,48340,,1387104
+42542411,Zanubrutinib,Component,HemOnc,Drug,50482,,37497691
+42542420,Asciminib,Component,HemOnc,Drug,53780,,702133
+42542436,Luspatercept,Component,HemOnc,Drug,54062,,37497705
+42542438,Osocimab,Component,HemOnc,Drug,54147,,36857030
+42542441,Tazemetostat,Component,HemOnc,Drug,54224,,37498602

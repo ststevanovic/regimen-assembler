@@ -1,0 +1,85 @@
+Var1	regGroup
+ABCP	Chemo
+Afatinib monotherapy	EGFR TKI
+Alectinib monotherapy	Other TKI
+Amivantamab monotherapy	EGFR TKI
+Atezolizumab monotherapy	ICI 
+Bendamustine monotherapy	Chemo
+Bevacizumab monotherapy	Other TKI
+Brigatinib monotherapy	Other TKI
+Cabozantinib monotherapy	Other TKI
+Capmatinib monotherapy	Other TKI
+Carboplatin & Docetaxel	Chemo
+Carboplatin & Etoposide (CE)	Chemo
+Carboplatin & Etoposide (CE) & Atezolizumab	ICI-combination 
+Carboplatin & Etoposide (CE) & Durvalumab	ICI-combination 
+Carboplatin & Gemcitabine (GCb)	Chemo
+Carboplatin & Irinotecan	Chemo
+Carboplatin & Paclitaxel (CP)	Chemo
+Carboplatin & Paclitaxel (CP) & Bevacizumab	Chemo
+Carboplatin & Paclitaxel (CP) & Ipilimumab, Nivolumab	ICI-combination 
+Carboplatin & Paclitaxel (CP) & Nivolumab	ICI-combination 
+Carboplatin & Paclitaxel (CP) & Pembrolizumab	ICI-combination 
+Carboplatin & Paclitaxel (CP) & RT	Chemo
+Carboplatin & Paclitaxel (CP) & Sugemalimab	Chemo
+Carboplatin & Paclitaxel (CP) & Tislelizumab	Chemo
+Carboplatin & Paclitaxel (CP), Bevacizumab, Nivolumab	ICI-combination 
+Carboplatin & Pemetrexed	Platinum doublet
+Carboplatin, Pemetrexed, Atezolizumab	ICI-combination 
+Carboplatin, Pemetrexed, Bevacizumab	ICI-combination 
+Carboplatin, Pemetrexed, Ipilimumab, Nivolumab	ICI-combination 
+Carboplatin, Pemetrexed, Pembrolizumab	ICI-combination 
+CAV	Chemo
+Cemiplimab monotherapy	ICI 
+Ceritinib monotherapy	Other TKI
+Cisplatin & Docetaxel (DC)	Chemo
+Cisplatin & Etoposide (EP)	Chemo
+Cisplatin & Etoposide (EP) & Durvalumab	ICI-combination 
+Cisplatin & Gemcitabine (GC)	Chemo
+Cisplatin & Gemcitabine (GC) & Necitumumab	Chemo
+Cisplatin & Irinotecan (IC)	Chemo
+Cisplatin & Paclitaxel	Chemo
+Cisplatin & Pemetrexed	Chemo
+Cisplatin & RT	Chemo
+Cisplatin & Vinorelbine (CVb)	Chemo
+Cisplatin, Docetaxel, RT	Chemo
+Cisplatin, Etoposide, RT	Chemo
+Cisplatin, Paclitaxel, Cemiplimab	ICI-combination 
+Cisplatin, Pemetrexed, Bevacizumab	Chemo
+Cisplatin, Pemetrexed, Nivolumab	ICI-combination 
+Cisplatin, Pemetrexed, Pembrolizumab	ICI-combination 
+Cisplatin, Vinorelbine, RT	Chemo
+Crizotinib monotherapy	Other TKI
+Dabrafenib & Trametinib	Other TKI
+Dacomitinib monotherapy	EGFR TKI
+Docetaxel & Bevacizumab	Chemo
+Docetaxel & Nivolumab	ICI-combination 
+Docetaxel & Ramucirumab	Chemo
+Docetaxel monotherapy	Chemo
+Durvalumab monotherapy	ICI 
+Erlotinib monotherapy	EGFR TKI
+Etoposide monotherapy	Chemo
+Everolimus monotherapy	Other TKI
+Gefitinib monotherapy	EGFR TKI
+Gemcitabine & Paclitaxel	Chemo
+Gemcitabine & Vinorelbine	Chemo
+Gemcitabine monotherapy	Chemo
+Ipilimumab & Nivolumab	ICI 
+Ipilimumab monotherapy	ICI 
+Irinotecan monotherapy	Chemo
+IVE	Chemo
+Lorlatinib monotherapy	Other TKI
+Lurbinectedin monotherapy	Chemo
+Nivolumab monotherapy	ICI 
+Osimertinib monotherapy	EGFR TKI
+Paclitaxel monotherapy	Chemo
+Pembrolizumab monotherapy	ICI 
+Pemetrexed & Bevacizumab	Other TKI
+Pemetrexed monotherapy	Chemo
+Selpercatinib monotherapy	Other TKI
+Sorafenib monotherapy	Other TKI
+Sotorasib monotherapy	Other TKI
+Temozolomide monotherapy	Chemo
+Tepotinib monotherapy	Other TKI
+Topotecan monotherapy	Chemo
+Vinorelbine monotherapy	Chemo

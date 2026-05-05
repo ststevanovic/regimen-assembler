@@ -1,0 +1,93 @@
+{
+    "radiotherapy_containing.reported": {
+        "name": "Regimens with Radiotherapy",
+        "desc": "Regimens containing Radiotherapy (spaced or parenthesized)."
+    },
+    "regimen_components_nonequal_variants": {
+        "name": "Variants with Nonequal Components",
+        "desc": "Variants showing a discrepancy in component counts within the same regimen group."
+    },
+    "preproc_cleaned.reported": {
+        "name": "Cleaned Preprocessed SIGs",
+        "desc": "The primary source table after resolving idiosyncrasies, ready for downstream transformation.",
+        "order": 2
+    },
+    "multi_part_sigs.reported": {
+        "name": "Multiparted Regimens (Raw)",
+        "desc": "Regimens containing variants with heterogeneous cycle lengths or step numbers.",
+        "skip": 1
+    },
+
+    "unique_groups": {
+        "name": "Unique Regimen Groups",
+        "desc": "Synthetically generated unique keys based on Condition CUI, Regimen CUI, and Variant Key."
+    },
+    "regimen_components_nonequal.reported": {
+        "name": "Non-Equal Component Distribution",
+        "desc": "Identifies regimens where variant components do not align in frequency or count."
+    },
+
+    "component_role_secondary_systemic.reported": {
+        "name": "Secondary Systemic Roles",
+        "desc": "Regimens containing components explicitly flagged with locoregional or secondary systemic roles."
+    },
+    "single_part_sigs.reported": {
+        "name": "Single-Parted Regimens",
+        "desc": "Regimens consisting of uniform/single variants regarding cycle distribution."
+    },
+    "null_sig.reported": {
+        "name": "NULL SIG Fields",
+        "desc": "Records containing NULL values in critical SIG fields, typically removed during preprocessing."
+    },
+    "null_group_keys": {
+        "name": "NULL Group Keys",
+        "desc": "Regimens missing essential group identifiers: Condition, Regimen, or Variant CUI."
+    },
+    "with_allDays_pattern.reported": {
+        "name": "Days Pattern Distribution",
+        "desc": "Analysis of frequency and variety of 'allDays' patterns across the dataset."
+    },
+    "component_role_locoregional.reported": {
+        "name": "Locoregional Roles",
+        "desc": "Regimens containing components with locoregional therapeutic roles."
+    },
+    "null_condition_regimens_unique": {
+        "name": "NULL Condition Unique",
+        "desc": "Unique regimen records that failed to map to a valid Condition CUI."
+    },
+    "regimen_variants_n_unique": {
+        "name": "Variant Cardinality per Regimen",
+        "desc": "Aggregation of the number of unique variants associated with each parent regimen CUI."
+    },
+    "cycle_length_unit_indefinite.resolved": {
+        "name": "Indefinite Cycle Units",
+        "desc": "Regimens where cycle length units are explicitly marked as indefinite."
+    },
+    "multi_part_sigs.dropped.resolved": {
+        "name": "Resolved Multiparted Drops",
+        "desc": "Duplicate rows within multiparted groups that were pruned during the resolution process."
+    },
+    "cycle_length_unit_indefinite.reported": {
+        "name": "Indefinite Cycle Units (Raw)",
+        "desc": "Initial identification of regimens with indefinite cycle lengths before resolution.",
+        "skip": 1
+    },
+    "null_condition.reported": {
+        "name": "NULL Condition Records",
+        "desc": "Initial records lacking a Condition CUI mapping.",
+        "skip": 1
+    },
+    "multi_part_sigs.resolved": {
+        "name": "Multiparted Regimens (Resolved)",
+        "desc": "Multiparted variants with cycle length and step number inconsistencies successfully resolved."
+    },
+    "indeterminate_cycle_lengths.resolved": {
+        "name": "Indeterminate Length Markers",
+        "desc": "Regimens containing non-numeric cycle duration markers like '(+c)' or 'NUB'."
+    },
+    "regimens": {
+        "name": "Final Assembled Regimens",
+        "desc": "The complete validated table of all assembled regimens.",
+        "order": 1
+    }
+}

@@ -1,0 +1,45 @@
+# Prefect 3.x deployment config — run everything from assembler/ root
+# Deploy:  cd assembler && PREFECT_API_URL=http://127.0.0.1:4200/api .venvs/etl/bin/prefect deploy --all
+
+name: prefect-assembler
+prefect-version: 3.6.24
+
+build: null
+push: null
+
+pull:
+  - prefect.deployments.steps.set_working_directory:
+      directory: /home/stev/proj/prefect-assembler/assembler
+
+deployments:
+
+  # ── ETL pipeline ─────────────────────────────────────────────────────────────
+  - name: prod
+    entrypoint: flows/master.py:etl_flow
+    work_pool:
+      name: etl-pool
+      work_queue_name: default
+      job_variables:
+        env:
+          PYTHONPATH: /home/stev/proj/prefect-assembler
+    parameters:
+      workdir: OUTPUTs/output-assembled
+      sigs: sigs_march_2025.csv
+      skip_query: true
+    schedules: []
+
+  # ── Regression pipeline ───────────────────────────────────────────────────────
+  - name: prod
+    entrypoint: flows/master.py:regression_flow
+    work_pool:
+      name: regression-pool
+      work_queue_name: default
+      job_variables:
+        env:
+          PYTHONPATH: /home/stev/proj/prefect-assembler
+    parameters:
+      ref: OUTPUTs/output_baseline
+      new: OUTPUTs/run2test
+      out: OUTPUTs/output.regression_tests
+      n: null
+    schedules: []
